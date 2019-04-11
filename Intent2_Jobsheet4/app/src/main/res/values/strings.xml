@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Intent2_Jobsheet4</string>
+    <string name="editText_uri">http://www.polinema.ac.id</string>
+    <string name="button_uri">Open Website</string>
+    <string name="editText_loc">Politeknik Negeri Malang</string>
+    <string name="button_loc">Open Location</string>
+</resources>
